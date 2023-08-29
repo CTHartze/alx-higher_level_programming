@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines classes and nodes for singly-linked list."""
 
+
 class Node:
     """Singly-linked list node representative."""
 
